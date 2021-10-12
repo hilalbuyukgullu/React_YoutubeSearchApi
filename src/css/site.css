@@ -1,0 +1,164 @@
+
+.youtubeLogo{
+    font-family: Oswald;
+    font-size: 23px;
+    position: static;
+    border: none;
+    padding-top: 21px;
+}
+
+.ui.input{
+    width: 82%;
+}
+
+.ui.grid{
+    text-align: left;
+    margin-left: 15px;
+}
+
+.ui.form{
+    display: flex;
+}
+
+.ui.form input[type=text]{
+    border-radius: 20px 0px 0px 20px;
+    margin: 15px !important;
+}
+.ui.form input[type=text]:focus{
+    border-radius: 20px 0px 0px 20px;
+    margin: 15px !important;
+}
+.ui.button {
+    color: white;
+    background-color: #db2828;
+    border-radius: 1px 20px 20px 2px;
+    margin: 15px;
+}
+
+.ui.button:hover, :visited{
+    color: white;
+    background-color: rgb(182, 7, 7);
+}
+
+.videoTitle{
+    margin-top: 20px;
+    margin-left: -26px;
+}
+
+.channelImg{
+    border-radius: 67px;
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    box-shadow: 3px -2px 6px grey;
+    margin-top: -18px;
+}
+
+.searchImage{
+    box-shadow: 4px 4px 3px #c1c1c1;;
+}
+
+.searchList{
+    background-color: #f7f5f5;
+}
+
+a{
+    margin: 0px !important;
+    color: black;
+}
+
+a:hover{
+    color:black;
+    text-decoration: underline;
+}
+
+.homeLink, .searchLink{
+    color: black;
+}
+
+.videoFav{
+    display: flex;
+}
+
+.searchLink{
+    color: black;
+}
+
+.ui.card{
+    height: 241px;
+}
+
+.cardTitle{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+.cardDate{
+    text-align: end;
+}
+
+.cardImg{
+    width: 100%;
+}
+
+.delItem{
+    color: red;
+    cursor: pointer;
+    background: white;
+    border: none;
+}
+
+.delButton{
+    display: flex !important;
+    justify-content: end;
+    position: relative;
+    margin-top: -23px;
+
+}
+
+.cardWidth{
+    width: 100%;
+}
+
+.topTitle{
+    margin: 12px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #d7d1d1;
+    padding: 13px;
+}
+.lasWatchNull{
+    margin: 14px;
+}
+
+.carDate{
+    text-align:end;
+}
+
+.searchDate{
+    text-align: start;
+    margin-top: 29px
+}
+
+.dropDown{
+    display: flex;
+    justify-content: start;
+    margin-right: 16px;
+    margin-top: 14px;
+}
+
+.ui.fluid.dropdown {
+    width: 60%;
+}
+
+.ui.segment:first-child {
+    margin-top: -11px;
+}
+
+@media (min-width: 992px){
+    .ui.column.grid>[class*="two wide computer"].column, .ui.grid>.column.row>[class*="two wide computer"].column, .ui.grid>.row>[class*="two wide computer"].column, .ui.grid>[class*="two wide computer"].column {
+        width: 16.5%!important;
+    }
+}
