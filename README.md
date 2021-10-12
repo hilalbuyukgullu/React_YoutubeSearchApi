@@ -1,70 +1,27 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 React Youtube Search Api 📌
 
-## Available Scripts
+<p> Video search with Youtube Data API </p>
+<img src="https://user-images.githubusercontent.com/44446749/136988062-d661b255-6134-401e-a9bc-367c795239a3.jpg"/>
+<br/><br/>
 
-In the project directory, you can run:
+ ## Languages and Technologies Used in this Project
+:arrow_right: ReactJs </br>
+:arrow_right: TypeScript </br>
+:arrow_right: Semantic UI </br>
+:arrow_right: Axios </br>
+<br/>
 
-### `yarn start`
+ ## Application Images
+ <p>
+<a href="https://user-images.githubusercontent.com/44446749/136988371-1021651a-8ca4-4965-bc71-67e41a33a200.jpg" target="_blank">
+<img src="https://user-images.githubusercontent.com/44446749/136988371-1021651a-8ca4-4965-bc71-67e41a33a200.jpg" width="480" style="max-width:200%;"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://user-images.githubusercontent.com/44446749/136988692-3565e8c4-90a9-4248-8c7c-09417233fd42.jpg" target="_blank">
+<img src="https://user-images.githubusercontent.com/44446749/136988692-3565e8c4-90a9-4248-8c7c-09417233fd42.jpg" width="480" style="max-width:200%;"></a>
+ 
+<a href="https://user-images.githubusercontent.com/44446749/136989120-e1c7b659-b080-423f-88c1-4dc9a2305f92.jpg" target="_blank">
+<img src="https://user-images.githubusercontent.com/44446749/136989120-e1c7b659-b080-423f-88c1-4dc9a2305f92.jpg" width="480" style="max-width:200%;"></a>
+ 
+</p>
+  
