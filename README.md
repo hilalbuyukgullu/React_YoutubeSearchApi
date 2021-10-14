@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/44446749/136988062-d661b255-6134-401e-a9bc-367c795239a3.jpg"/>
 <br/><br/>
 
- ## :books: Languages and Technologies Used in this Project
+ ## Languages and Technologies Used in this Project
 :arrow_right: ReactJs </br>
 :arrow_right: TypeScript </br>
 :arrow_right: Semantic UI </br>
